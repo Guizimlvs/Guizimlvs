@@ -1,6 +1,9 @@
 Opa eae? Bem-vindo👋
+
 🔭 Atualmente Fazendo Projetos para melhorar as minhas habilidades.
+
 🌱 Atualmente Cursando na Universidade Cruzeiro do Sul Ciencias da Computação (4º/5º Semestre).
+
 ✉ guizinho.profissional@gmai.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guizimlvs&show_icons=true&theme=radical&cache_seconds=1800)
@@ -17,6 +20,8 @@ Linguagens e Tecnologias
 </div>
 
 <div>
+
+  <br>
   <a href = "mailto:guizinho.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
