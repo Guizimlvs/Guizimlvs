@@ -6,7 +6,7 @@ Opa eae? Bem-vindo👋
 
 ✉ guizinho.profissional@gmai.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guizimlvs)](https://github.com/Guizimlvs/github-readme-stats)
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Guizimlvs)](https://github.com/Guizimlvs/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 Linguagens e Tecnologias
