@@ -16,7 +16,8 @@ Linguagens e Tecnologias
   <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="right" alt="gif" height="80" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBubGJzb2NyemZxdjI2YXl4ejc4bGRlcmYwYXM0Zzh1djV4cjExaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOZt5tdGYxzz0H6Nfi/giphy.gif">
+  <img align="center" alt="Java" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="right" alt="gif" height="80" width="300" src="https://giphy.com/gifs/uma-musume-umamusume-d4vMPIzgnsUnqvpe9Q">
 </div>
 
 <div>
