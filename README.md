@@ -7,7 +7,7 @@ Olá Bem-vindo👋
 ✉ guizinho.profissional@gmai.com
 
 [![Guizimlvs GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Guizimlvs&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Guizimlvs)](https://github.com/Guizimlvs/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Guizimlvs)](https://github.com/Guizimlvs/github-readme-stats&theme=material-palenight)
 
 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
