@@ -6,8 +6,8 @@ Opa eae? Bem-vindo👋
 
 ✉ guizinho.profissional@gmai.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Guizimlvs&layout=compact&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
