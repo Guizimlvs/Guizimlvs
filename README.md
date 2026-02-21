@@ -1,4 +1,4 @@
-Opa eae? Bem-vindo👋
+Olá Bem-vindo👋
 
 🔭 Atualmente Fazendo Projetos para melhorar as minhas habilidades.
 
