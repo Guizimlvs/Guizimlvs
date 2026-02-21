@@ -6,9 +6,6 @@ Opa eae? Bem-vindo👋
 
 ✉ guizinho.profissional@gmai.com
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Guizimlvs&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guizimlvs&layout=compact&theme=tokyonight&cache_seconds=1800)
-
 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
