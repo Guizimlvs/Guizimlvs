@@ -2,11 +2,11 @@ Opa eae? Bem-vindo👋
 
 🔭 Atualmente Fazendo Projetos para melhorar as minhas habilidades.
 
-🌱 Atualmente Cursando na Universidade Cruzeiro do Sul Ciencias da Computação (4º/5º Semestre).
+🌱 Atualmente Cursando na Universidade Cruzeiro do Sul Ciencias da Computação (6º/7º Semestre).
 
 ✉ guizinho.profissional@gmai.com
 
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Guizimlvs)](https://github.com/Guizimlvs/github-readme-stats)
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Guizimlvs)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 Linguagens e Tecnologias
