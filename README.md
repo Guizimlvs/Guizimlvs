@@ -6,6 +6,8 @@ Olá Bem-vindo👋
 
 ✉ guizinho.profissional@gmai.com
 
+[![Guizimlvs GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CompEng0001&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
+
 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
